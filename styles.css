@@ -1,0 +1,42 @@
+nav {
+    font-weight: bold;
+    padding: 5px;
+	float: left;
+	width: 160px;
+	padding-top: 20px;
+	padding-right: 5px;
+	padding-left: 20px;
+}
+
+body {background-color: #272D1D;
+      /*background-image: url(../images/pharmacy2.jpg);*/
+	  background-repeat: no-repeat;
+	  background-position: center;
+      color: #518300;
+      font-family: Verdana, Arial, sans-serif;
+	  }
+.bgimage{
+	/*background-image:url(../images/notes.jpg);*/
+	height:100px;
+}
+h1{
+	color:#7A7A7A;
+	text-align:center;
+}
+h2{
+	color:#000000;
+}
+#homebanner {
+    height: 200px;
+    /*background-image: url(../images/pharmacy.jpg);*/
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+	margin-left: 170px;
+}
+footer {
+    font-size: .70em;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+	margin-left: 170px;
+}
